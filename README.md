@@ -66,6 +66,8 @@ pip install pandas numpy matplotlib scikit-learn
 建議：檢查異常區間的溫度與壓力設定
 ---
 
+```
+
 ## 🧠 專案學習重點
 - 將資料分析應用於半導體製程情境  
 - 使用機器學習進行異常偵測  
