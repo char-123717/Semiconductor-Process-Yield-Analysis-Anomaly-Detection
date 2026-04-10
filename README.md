@@ -23,7 +23,10 @@ python main.py
 
 ## Output
 
-When executing the script, it will print the text output indicating any detected anomalous events along with an analytical summary:
+When executing the script, it will print the output indicating any detected anomalous events along with an analytical summary:
+
+![Yield](yield.png)
+![Yield with Anomalies](yield_with_anomalies.png)
 
 ```text
 === 異常資料 ===
@@ -40,8 +43,4 @@ When executing the script, it will print the text output indicating any detected
 建議：檢查異常區間的溫度與壓力設定
 ```
 
-### Visualizations
 
-The script will also open interactive plotting window displays illustrating the yield trend over time and pinpointing any detected anomalies (highlighted in orange).
-
-![Yield with Anomalies](yield_with_anomalies.png)
