@@ -26,7 +26,6 @@ python main.py
 When executing the script, it will print the output indicating any detected anomalous events along with an analytical summary:
 
 ![Yield](yield.png)
-![Yield with Anomalies](yield_with_anomalies.png)
 
 ```text
 === 異常資料 ===
